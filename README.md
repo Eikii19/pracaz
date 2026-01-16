@@ -3,5 +3,5 @@
 ## Opis Pracy 
 Strona internetowa prezentująca 4 legendarne tory Formuły 1. 
 
-## Wykorzystane Technologie
+## Zrobione zadanie
 * coś tam zrobiłem
